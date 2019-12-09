@@ -401,6 +401,12 @@
    .aboutword {
       top: 1200px;
    }
+	
+   .innerrsvp {
+      width: 95%;
+   }
+		
+	
 }
 
 @media only screen and (max-width: 625px){ 
