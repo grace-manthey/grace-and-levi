@@ -1,6 +1,6 @@
 /* styles.css 
-   Project: 
-   Author: 
+   Project: Grace and Levi's wedding website
+   Author: Grace Manthey
    Date: 
 	
    Helpful links: 
@@ -185,6 +185,12 @@
             .menuarrowup img {
                width: 100%;
             }
+
+
+.block p {
+   font-family: "Times New Roman";
+   padding-bottom: 50px;
+}
 
 /*LOCATION INFO CSS*/
 
