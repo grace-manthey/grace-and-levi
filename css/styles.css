@@ -192,6 +192,10 @@
    padding-bottom: 50px;
 }
 
+.aboutwords p {
+   padding-bottom: 0px;
+}
+
 /*LOCATION INFO CSS*/
 
 .map {
