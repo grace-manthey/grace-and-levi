@@ -330,7 +330,7 @@
    }
 
    .registrystyle {
-      text-align: center;
+      text-align: justify;
    }
 
 .homebutton {
@@ -439,11 +439,7 @@
      display: none;
 
    }
-	
-   .block {
-	   background-color: rgba(238, 201, 255, 0.7);
-	   padding: 20px;
-	   width: 90%;
+
 
    .items {
       float: none;
@@ -454,7 +450,11 @@
    }
 
    .words {
-      width: 60%;
+      width: 80%;
+   }
+
+   .innermap {
+      width: 80%;
    }
 
 }
@@ -466,17 +466,17 @@
    }
 
    .innerreg {
-      text-align: left;
+      /*text-align: left;*/
       width: 80%;
    }
 
    .words {
-      text-align: left;
+      /*text-align: left;*/
       width: 80%;
    }
 
    .maptitle p {
-      text-align: left;
+      /*text-align: left;*/
    }
 }
 
