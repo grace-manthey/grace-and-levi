@@ -424,6 +424,8 @@
       width: 200%;
       left: -40%;
    }
+	
+	
 
    #mobilemenu {
       display: block;
@@ -437,6 +439,10 @@
      display: none;
 
    }
+	
+   .block {
+	   background-color: rgba(238, 201, 255, 0.7);
+	   padding: 20px;
 
    .items {
       float: none;
