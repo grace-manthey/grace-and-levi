@@ -443,6 +443,7 @@
    .block {
 	   background-color: rgba(238, 201, 255, 0.7);
 	   padding: 20px;
+	   width: 90%;
 
    .items {
       float: none;
