@@ -8,9 +8,18 @@ $(document).ready(function(){ // begin document.ready block
 
 	//jquery code here
 
-// Makes line fade in on page load
 
-	$(".line").fadeIn(2000);
+	// POPUP STUFF
+	$(".gotit").click(function(){
+
+		$(".popup").hide()
+
+		// Makes line fade in on page load
+		$(".line").fadeIn(2000);
+
+	})
+
+	
 
 // Makes menu and background fixed when scroll to it
 
